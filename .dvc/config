@@ -2,3 +2,5 @@
     remote = myremote
 ['remote "myremote"']
     url = C:\dvcstore
+['remote "my_second_remote"']
+    url = C:\dvcstore2
